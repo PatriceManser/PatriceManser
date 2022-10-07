@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatriceManser
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Domain Driven Design, Gradle, FaunaDB and GraphQL
+- 🌱 I’m currently learning Domain Driven Design, Spring, Angular and Oauth2
 
 <!---
 PatriceManser/PatriceManser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
